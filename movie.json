@@ -1,0 +1,94 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Dune: Part Two",
+      "release_date": "2024-03-01",
+      "rating": 8.2,
+      "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq8P5uwVwfPAX9FnmiLtcFECf8l28lS9FN-g&s",
+      "description": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+      "genres": ["Sci-Fi", "Adventure", "Drama"]
+    },
+    {
+      "id": 2,
+      "title": "Oppenheimer",
+      "release_date": "2023-07-21",
+      "rating": 8.1,
+      "poster_url": "https://m.media-amazon.com/images/I/71FSrzTqHSL._AC_UF350,350_QL50_.jpg",
+      "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+      "genres": ["Biography", "Drama", "History"]
+    },
+    {
+      "id": 3,
+      "title": "Poor Things",
+      "release_date": "2023-12-08",
+      "rating": 7.9,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "description": "The incredible tale about the fantastical evolution of Bella Baxter, a young woman brought back to life by a brilliant scientist.",
+      "genres": ["Comedy", "Drama", "Romance"]
+    },
+    {
+      "id": 4,
+      "title": "The Batman",
+      "release_date": "2022-03-04",
+      "rating": 7.8,
+      "poster_url": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "description": "Batman is called to intervene when the mayor of Gotham City is murdered.",
+      "genres": ["Action", "Crime", "Drama"]
+    },
+    {
+      "id": 5,
+      "title": "Spider-Man: Across the Spider-Verse",
+      "release_date": "2023-06-02",
+      "rating": 8.6,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "description": "Miles Morales catapults across the multiverse, where he encounters a team of Spider-People charged with protecting its existence.",
+      "genres": ["Animation", "Action", "Adventure"]
+    },
+    {
+      "id": 6,
+      "title": "Everything Everywhere All at Once",
+      "release_date": "2022-03-25",
+      "rating": 7.8,
+      "poster_url": "https://image.tmdb.org/t/p/w500/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+      "description": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save the world.",
+      "genres": ["Action", "Adventure", "Comedy"]
+    },
+    {
+      "id": 7,
+      "title": "Barbie",
+      "release_date": "2023-07-21",
+      "rating": 7.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land.",
+      "genres": ["Comedy", "Adventure", "Fantasy"]
+    },
+    {
+      "id": 8,
+      "title": "Top Gun: Maverick",
+      "release_date": "2022-05-27",
+      "rating": 8.2,
+      "poster_url": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+      "description": "After thirty years, Maverick is still pushing the envelope as a top naval aviator.",
+      "genres": ["Action", "Drama"]
+    },
+    {
+      "id": 9,
+      "title": "Interstellar",
+      "release_date": "2014-11-07",
+      "rating": 8.4,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "genres": ["Adventure", "Drama", "Sci-Fi"]
+    },
+    {
+      "id": 10,
+      "title": "Parasite",
+      "release_date": "2019-11-08",
+      "rating": 8.5,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "genres": ["Comedy", "Drama", "Thriller"]
+    }
+  ]
+}
