@@ -2,7 +2,7 @@
 
 A React application for browsing movies with search functionality and detailed views.
 
-## 🚀 Quick Start
+## Quick Start
 
 ## 1. Install Dependencies
 
